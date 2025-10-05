@@ -32,3 +32,13 @@ El código realiza lo siguiente:
 Ejecutar el script principal:
 ```bash
 python3 experimentacion.py
+```
+Se imprimirán los resultados de las pruebas y se generará un gráfico mostrando la relación entre el tamaño de la entrada y el tiempo de ejecución.
+
+Objetivo
+
+El código de experimentación permite:
+
+Validar el correcto funcionamiento del algoritmo sobre ejemplos conocidos.
+
+Analizar empíricamente la complejidad temporal del algoritmo y confirmar que coincide con la teoría.
